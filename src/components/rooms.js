@@ -1,6 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
-import Layout from "./Layout"
+import Layout from "./layout"
 import GatsbyImage from "gatsby-image"
 import { css } from "@emotion/react"
 

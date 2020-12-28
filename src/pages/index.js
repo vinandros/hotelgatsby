@@ -1,5 +1,5 @@
 import React from "react"
-import Layout from "../components/Layout"
+import Layout from "../components/layout"
 import ImageHotel from "../components/img"
 import HomeContent from "../components/homeContent"
 import useRooms from "../hooks/useRooms"
