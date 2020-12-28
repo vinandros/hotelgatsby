@@ -41,7 +41,7 @@ const Room = ({ room }) => {
           {title}
         </h3>
         <p>{content}</p>
-        <Buttom to={slug}>Show Room</Buttom>
+        <Buttom to={slug}>View</Buttom>
       </div>
     </div>
   )
